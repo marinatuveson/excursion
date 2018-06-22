@@ -1,0 +1,40 @@
+.cta{
+color: aquamarine;
+font-size: 16 px
+}
+
+
+h1{
+  font font-family: Veranda;
+  Font weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Veranda;
+}
+
+h2{
+  font-family: Veranda;
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  font-family: Veranda;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
+}
